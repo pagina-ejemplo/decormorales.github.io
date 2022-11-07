@@ -23,7 +23,7 @@ body{
 .header{
     height: 100vh;
     /* 02 */
-    background-image: linear-gradient(to top, rgba(251, 194, 235, 0.486) 
+    background-image: linear-gradient(to top, rgba(235, 16, 216, 0.486) 
     0%, hsla(218, 68%, 79%, 0.514) 100%), url(img/woman.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -38,7 +38,7 @@ body{
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    color: rgb(9, 220, 76);
+    color: rgb(220, 9, 206);
 }
 
 
